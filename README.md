@@ -4,4 +4,5 @@
 
 ## Test Format
 Line 1: Arguments
+
 Line 2: Result, if there's newlines, use a space
